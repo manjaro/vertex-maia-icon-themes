@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   id="svg3033"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="gnome-stock-mic.svg">
+  <metadata
+     id="metadata3041">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3039" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3037"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3033" />
+  <path
+     style="fill:#8a8a8a;fill-opacity:1"
+     d="M 15.855469 5.332031 C 13.410156 5.332031 11.4375 7.304688 11.4375 9.75 L 11.4375 16.542969 C 11.4375 18.984375 13.410156 20.957031 15.855469 20.957031 C 18.296875 20.957031 20.269531 18.984375 20.269531 16.542969 L 20.269531 9.75 C 20.269531 7.304688 18.296875 5.332031 15.855469 5.332031 Z M 8.855469 15.980469 C 8.855469 15.980469 8.851562 23.8125 15.269531 23.792969 L 15.269531 25.25 L 13.144531 25.25 L 13.144531 26.667969 L 18.855469 26.667969 L 18.855469 25.25 L 16.707031 25.25 L 16.707031 23.792969 C 23.796875 23.332031 23.125 15.980469 23.125 15.980469 L 21.6875 15.980469 C 21.6875 15.980469 21.707031 22.394531 16 22.394531 C 10.292969 22.394531 10.292969 15.980469 10.292969 15.980469 Z "
+     id="path3035" />
+</svg>

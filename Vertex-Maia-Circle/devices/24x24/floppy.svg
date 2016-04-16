@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24pt" height="24pt" viewBox="0 0 24 24" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(37.254902%,37.254902%,37.254902%);fill-opacity:1;" d="M 3.75 3.75 L 3.75 20.25 L 20.25 20.25 L 20.25 6 L 18 3.75 Z M 3.75 3.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(60.392157%,65.098039%,63.137255%);fill-opacity:1;" d="M 9.75 3.75 L 9.75 8.25 L 16.5 8.25 L 16.5 3.75 Z M 9.75 3.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(87.45098%,87.45098%,87.45098%);fill-opacity:1;" d="M 6 9.75 L 6 20.25 L 18 20.25 L 18 9.75 Z M 6 9.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,16.862745%,21.176471%);fill-opacity:1;" d="M 15.75 4.5 L 14.25 4.5 L 14.25 7.5 L 15.75 7.5 Z M 15.75 4.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,16.862745%,21.176471%);fill-opacity:1;" d="M 6.75 12.75 L 6.75 13.5 L 17.25 13.5 L 17.25 12.75 Z M 6.75 12.75 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,16.862745%,21.176471%);fill-opacity:1;" d="M 6.75 16.5 L 6.75 17.25 L 17.25 17.25 L 17.25 16.5 Z M 6.75 16.5 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.215686%,96.470588%,89.019608%);fill-opacity:0.247059;" d="M 18.75 20.25 L 17.25 20.25 L 17.25 3.75 L 18 3.75 L 18.75 4.5 Z M 18.75 20.25 "/>
+</g>
+</svg>
