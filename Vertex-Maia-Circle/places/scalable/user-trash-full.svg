@@ -201,7 +201,7 @@
        sodipodi:type="arc"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
-       style="fill:#27ae60;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#16a085;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect3280"
        width="29.999998"
        height="29.999998"
@@ -243,7 +243,7 @@
        height="7"
        width="36"
        id="rect3282"
-       style="fill:#27ae60;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+       style="fill:#16a085;fill-opacity:1;fill-rule:evenodd;stroke:none" />
     <path
        transform="matrix(0,1,-1,0,0,0)"
        sodipodi:type="arc"
@@ -265,7 +265,7 @@
        sodipodi:type="arc"
        transform="matrix(0,1,-1,0,0,0)" />
     <path
-       style="fill:#27ae60;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#16a085;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="M 17 4 L 15 9 L 15 11 L 17 11 L 17 9 L 17 4 z M 31 4 L 31 9 L 31 11 L 33 11 L 33 9 L 31 4 z "
        transform="translate(0,1004.3622)"
        id="path3376" />

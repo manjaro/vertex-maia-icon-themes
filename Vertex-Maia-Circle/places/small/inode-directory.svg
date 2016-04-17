@@ -176,7 +176,7 @@
        id="g3053"
        transform="matrix(1,0,0,1.1773318,0,-5.2823341)">
       <rect
-         style="fill:#27ae60;fill-opacity:1;stroke:none"
+         style="fill:#16a085;fill-opacity:1;stroke:none"
          id="folderTab"
          width="18"
          height="10"
@@ -188,7 +188,7 @@
          height="30"
          width="40"
          id="folderBackground"
-         style="fill:#27ae60;fill-opacity:1;stroke:none" />
+         style="fill:#16a085;fill-opacity:1;stroke:none" />
       <rect
          y="10.9998"
          x="6"
@@ -197,7 +197,7 @@
          id="folderPaper"
          style="fill:#ffffff;fill-opacity:1;stroke:none" />
       <rect
-         style="fill:#27ae60;fill-opacity:1;stroke:none"
+         style="fill:#16a085;fill-opacity:1;stroke:none"
          id="folderFront"
          width="43.999996"
          height="28.000008"

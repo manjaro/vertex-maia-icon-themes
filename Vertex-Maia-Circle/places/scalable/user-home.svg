@@ -178,9 +178,9 @@
        height="11.773318"
        width="18"
        id="folderTab"
-       style="fill:#27ae60;fill-opacity:1;stroke:none" />
+       style="fill:#16a085;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#27ae60;fill-opacity:1;stroke:none"
+       style="fill:#16a085;fill-opacity:1;stroke:none"
        id="folderBackground"
        width="40"
        height="35.319954"
@@ -199,7 +199,7 @@
        height="32.965298"
        width="43.999996"
        id="folderFront"
-       style="fill:#27ae60;fill-opacity:1;stroke:none" />
+       style="fill:#16a085;fill-opacity:1;stroke:none" />
     <path
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="m 24.019158,16.885193 -1.414062,1.414062 0.0059,0.0059 -8.585937,8.585938 1.414062,1.414062 8.585938,-8.585937 8.585937,8.585937 1.414063,-1.414062 -2.00586,-2.005859 0.0059,0 0,-8 -2,0 0,6.005859 -4.585938,-4.585938 0.0059,-0.0059 -1.414063,-1.414062 -0.0059,0.0059 -0.0059,-0.0059 z m -7.99414,13 0,7 2,0 14,0 0,-2 0,-5 -2,0 0,5 -12,0 0,-5 z"
