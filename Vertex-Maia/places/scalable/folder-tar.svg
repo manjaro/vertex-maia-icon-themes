@@ -241,9 +241,9 @@
        height="11.773318"
        width="18"
        id="folderTab"
-       style="fill:#16a085;fill-opacity:1;stroke:none" />
+       style="fill:#18b193;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#16a085;fill-opacity:1;stroke:none"
+       style="fill:#18b193;fill-opacity:1;stroke:none"
        id="folderBackground"
        width="40"
        height="35.319954"
@@ -262,9 +262,9 @@
        height="32.965298"
        width="43.999996"
        id="folderFront"
-       style="fill:#16a085;fill-opacity:1;stroke:none" />
+       style="fill:#18b193;fill-opacity:1;stroke:none" />
     <path
-       style="fill:#16a085;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#18b193;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3201"
        inkscape:connector-curvature="0"
        d="m 19.724664,10.109343 0,23.838299 c 0,0.72035 0.9534,1.30027 2.137668,1.30027 l 4.275334,0 c 1.184268,0 2.137668,-0.57992 2.137668,-1.30027 l 0,-23.838299 -2.850224,0 0,0.866847 -2.850222,0 0,-0.866847 -2.850224,0 z" />

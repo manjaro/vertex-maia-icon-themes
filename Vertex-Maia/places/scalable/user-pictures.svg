@@ -190,9 +190,9 @@
        height="11.773318"
        width="18"
        id="folderTab"
-       style="fill:#16a085;fill-opacity:1;stroke:none" />
+       style="fill:#18b193;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#16a085;fill-opacity:1;stroke:none"
+       style="fill:#18b193;fill-opacity:1;stroke:none"
        id="folderBackground"
        width="40"
        height="35.319954"
@@ -211,7 +211,7 @@
        height="32.965298"
        width="43.999996"
        id="folderFront"
-       style="fill:#16a085;fill-opacity:1;stroke:none" />
+       style="fill:#18b193;fill-opacity:1;stroke:none" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"

@@ -318,9 +318,9 @@
        height="11.773318"
        width="18"
        id="folderTab"
-       style="fill:#16a085;fill-opacity:1;stroke:none" />
+       style="fill:#18b193;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#16a085;fill-opacity:1;stroke:none"
+       style="fill:#18b193;fill-opacity:1;stroke:none"
        id="folderBackground"
        width="40"
        height="35.319954"
@@ -348,7 +348,7 @@
        id="rect3849"
        style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#16a085;fill-opacity:1;stroke:none"
+       style="fill:#18b193;fill-opacity:1;stroke:none"
        id="rect3851"
        width="43.999996"
        height="32.965298"
@@ -377,7 +377,7 @@
            d="m 41.009299,18.641437 -4.059599,0 -2.029799,-3.515715 2.0298,-3.515716 4.059598,10e-7 2.029799,3.515715 z" />
         <path
            sodipodi:type="arc"
-           style="color:#000000;fill:#16a085;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           style="color:#000000;fill:#18b193;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="path3057"
            sodipodi:cx="39.980976"
            sodipodi:cy="24.576328"
