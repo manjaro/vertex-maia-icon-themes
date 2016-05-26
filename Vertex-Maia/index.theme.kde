@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Vertex-Maia-Circle
-Comment=Manjaro's vector graphics icons theme for gtk+ and kde/qt Circle Edition
+Name=Vertex-Maia
+Comment=Manjaro's vector graphics icons theme for gtk+ and kde/qt
 Inherits=breeze,gnome,hicolor
 
 Example=x-directory-normal
