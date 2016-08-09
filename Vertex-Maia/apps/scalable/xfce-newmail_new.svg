@@ -53,7 +53,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
       <stop
-         style="stop-color:#757D7A;stop-opacity:1"
+         style="stop-color:#2EA18A;stop-opacity:1"
          id="stop7" />
       <stop
          offset="1"
